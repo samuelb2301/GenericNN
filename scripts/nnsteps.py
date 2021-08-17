@@ -15,7 +15,6 @@ import numpy as np
 
 import scripts.util_func as util_func #NOQA
 
-
 def init_parameters(layer_dims: List[int]) -> dict:
     """
     Initiliase the weight and bias vectors into a dictionary
